@@ -1,0 +1,6 @@
+{
+  "name": "AIUB CGPA Calculator",
+  "description": "A modern CGPA calculator for AIUB students with retake and probation support, PDF/Excel export, and customizable grade scales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
